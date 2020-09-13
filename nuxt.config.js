@@ -12,8 +12,8 @@ export default theme({
   i18n: {
     locales: () => [{
       code: 'ja',
-      iso: 'ja-JP',
-      file: 'ja-JP.js',
+      iso: 'ja_JP',
+      file: 'ja_JP.js',
       name: '日本語'
     }, {
       code: 'en',
